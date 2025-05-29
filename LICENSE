@@ -1,21 +1,63 @@
-MIT License
+# MIT Lisansı
 
-Copyright (c) 2025 Nur Kapısı
+## Lisans Metni
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright (c) 2025 Kitab
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+İşbu belgeyle, bu yazılımın ve ilgili dokümantasyon dosyalarının ("Yazılım") bir kopyasını edinen herkese, kullanma, kopyalama, değiştirme, birleştirme, yayımlama, dağıtma, alt lisanslama ve/veya satma hakları da dahil ancak bunlarla sınırlı olmamak üzere, Yazılım'ı herhangi bir kısıtlama olmaksızın kullanma izni verilmiştir, ancak aşağıdaki koşullara tabidir:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi, Yazılım'ın tüm kopyalarına veya önemli parçalarına dahil edilecektir.
+
+YAZILIM "OLDUĞU GİBİ" SAĞLANIR, HİÇBİR TÜRDE, AÇIK VEYA ZIMNİ GARANTİ OLMAKSIZIN, TİCARİ ELVERİŞLİLİK, BELİRLİ BİR AMACA UYGUNLUK VE İHLAL OLMAMA GARANTİLERİ DE DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE. HİÇBİR DURUMDA YAZARLAR VEYA TELİF HAKKI SAHİPLERİ, SÖZLEŞME, HAKSIZ FİİL VEYA BAŞKA BİR SEBEPLE, YAZILIMDAN VEYA YAZILIMIN KULLANIMINDAN YA DA BAŞKA İŞLEMLERDEN KAYNAKLANAN VEYA BUNLARLA BAĞLANTILI HERHANGİ BİR İDDİA, HASAR VEYA DİĞER YÜKÜMLÜLÜKLERDEN SORUMLU OLMAYACAKTIR.
+
+## MIT Lisansı Hakkında
+
+MIT Lisansı, yazılım endüstrisinde en yaygın kullanılan açık kaynak lisanslarından biridir. Yazılımın kullanımı, değiştirilmesi ve dağıtımı konusunda minimum kısıtlama getirmesi ile tanınır.
+
+### MIT Lisansının Özellikleri
+
+- **Özgürlük**: Yazılımı istediğiniz gibi kullanma, değiştirme ve dağıtma özgürlüğü
+- **Ticari Kullanım**: Yazılımı ticari projeler de dahil olmak üzere herhangi bir projede kullanabilme
+- **Az Kısıtlama**: Yazılımı kullanmak, değiştirmek ve dağıtmak için minimum yasal kısıtlama
+- **Atıf Zorunluluğu**: Telif hakkı bildirimi ve lisans metninin korunması şartı
+- **Sorumluluk Reddi**: Yazılım için herhangi bir garanti verilmemesi
+
+### Kitab Lite Projesi ve MIT Lisansı
+
+Kitab Lite projesi, kullanıcıların aşağıdaki haklara sahip olduğu anlamına gelen MIT Lisansı altında sunulmaktadır:
+
+1. **Kullanım Serbestisi**: Projeyi herhangi bir amaç için kullanabilirsiniz
+2. **Değiştirme Hakkı**: Kendi ihtiyaçlarınıza göre kodu değiştirebilirsiniz
+3. **Dağıtım Hakkı**: Orijinal veya değiştirilmiş kodu dağıtabilirsiniz
+4. **Alt Lisanslama**: Kendi lisansınız altında kod parçalarını kullanabilirsiniz
+5. **Ticari Kullanım**: Kod bazında ticari ürünler geliştirebilirsiniz
+
+### Sorumluluklar
+
+Kitab Lite projesini kullanan kişiler:
+
+1. Telif hakkı bildirimini ve MIT lisans metnini korumalıdır
+2. Projenin MIT lisansı altında olduğunu açıkça belirtmelidir
+3. Yazılımın "olduğu gibi" sağlandığını ve herhangi bir garanti verilmediğini kabul etmelidir
+
+### Atıf Verme
+
+Kitab Lite projesini kullanırken, orijinal projeye ve lisansa atıf vermek iyi bir uygulamadır. Atıf şu şekilde yapılabilir:
+
+```
+Bu proje Kitab tarafından geliştirilen Kitab Lite'ı içerir.
+(c) 2025 Kitab - MIT Lisansı altında lisanslanmıştır.
+```
+
+## Lisans Seçim Nedeni
+
+MIT Lisansı, Kitab Lite projesi için özellikle şu nedenlerle seçilmiştir:
+
+1. **Geniş Erişim**: Projenin mümkün olduğunca çok insana ulaşması hedeflenmektedir
+2. **Kolaylaştırılmış İşbirliği**: Diğer geliştiricilerin projeye katkıda bulunması teşvik edilmektedir
+3. **Şeffaflık**: Açık kaynak yaklaşımı, projenin daha güvenilir ve geliştirilebilir olmasını sağlar
+4. **Eğitim Amaçlı Kullanım**: Materyal, eğitim amaçlı projelerde özgürce kullanılabilir
+
+## İletişim
+
+Lisans ile ilgili sorularınız veya Kitab Lite projesinin kullanımı hakkında bilgi almak için lütfen iletişime geçin.
