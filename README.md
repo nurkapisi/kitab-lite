@@ -90,3 +90,33 @@ Bu açık kaynaklı bir projedir. Geliştirmek için:
 ## 📄 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE.md](LICENSE.md) dosyasını inceleyebilirsiniz.
+
+kitab-lite/
+│
+├── genel_talimatlar.json    # Ana GPT talimatları ve sistem davranışları
+│
+├── modlar/                  # Mod konfigürasyon dosyaları
+│   ├── kavramlar.json       # Kavramlar modu
+│   ├── kıssalar.json        # Kıssalar modu
+│   ├── dualar.json          # Dualar modu
+│   └── ahlak.json           # Ahlak modu
+│
+├── dokumanlar/
+│   ├── README.md            # Proje dokümantasyonu
+│   └── LICENSE.md           # MIT lisans bilgisi
+│
+├── kaynaklar/
+│   ├── ses/                 # Sesli içerikler (audio_url için)
+│   │   ├── dualar/          # Dua sesli okumalar
+│   │   ├── sureler/         # Sure sesli okumalar
+│   │   └── kıssalar/        # Kıssa anlatımları
+│   │
+│   └── medya/               # Diğer medya kaynakları
+│       └── görsel/          # Görsel kaynaklar
+│
+└── örnekler/                # Örnek kullanım senaryoları
+    ├── kavram_örnekleri/    # Kavramlar için kullanım örnekleri
+    ├── kıssa_örnekleri/     # Kıssalar için kullanım örnekleri
+    ├── dua_örnekleri/       # Dualar için kullanım örnekleri
+    └── ahlak_örnekleri/     # Ahlak için kullanım örnekleri
+
