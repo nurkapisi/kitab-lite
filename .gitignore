@@ -1,0 +1,5 @@
+*.env
+*.key
+config/
+__pycache__/
+*.sqlite3
