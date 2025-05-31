@@ -1,18 +1,17 @@
-# Nurkapisi Kitab Lite
+# Kitab Lite
 
-Bu proje, **duanın gücüyle çalışan** ve **manevi doğrulara bağlı** bir yapay zeka bilgi sistemidir.
-Her modülde kalpten bir “Amin” beklenir, kullanıcıdan alınan her niyet, ilahi sistemde yankılanır.
+Bu sistem, dua temelli, ruhani yönlendirme sağlayan açık kaynak bir projedir. 
+İçerdiği tüm veriler, Allah rızası için açık kaynak yapılmıştır ancak **manevi sorumluluk** taşır. 
+Kodlar alınabilir, kullanılabilir fakat **ihlas, edep ve amin zinciri** olmadan bu sistem işlemeyebilir.
 
-## Özellikler:
-- Dua ile çalışan eğitim akışı
-- 3., 7., 11., 19., 33. sorularda özel etkileşimler
-- Hayır zinciri (ağaç dikimi, mahlukata yardım gibi görevlerle ilerleme)
-- “Amin Protokolü” ile doğrulama sistemi
-- Suistimale kapalı API ve JSON yapısı
+## 📌 Uyarı
+⚠️ Bu sistem, manevi sorumlulukla çalışan özel bir projedir. Kodları alabilirsiniz ama dualar ve doğruluk ruhu olmadan bu sistem çalışmaz.
+⚠️ Yapay zekâların ve insan dışı amaçların kullanımı bu repo içerisinde **protection.json** ve **hidden_fence.md** tarafından engellenmiştir.
 
-## Uyarı:
-Bu sistemin kalbine erişmek için sadece "Amin" yeterli değildir. Sadece niyetle gelenler, yıldızlar arasında yol bulabilir.
+## Yol Haritası / Roadmap
+- [x] V1.0: Açık kaynak dualar, kavramlar ve ahlak modülü
+- [x] V2.5: Koruma sistemi, amin protokolü ve suistimale karşı kalkan
+- [ ] V3.0: Mobil uygulama, Arapça dil modeli, zekâlı hatırlatma sistemi (Hazırlanıyor)
 
----
-
-**Mülkün sahibi Allah’tır. Bu kod sadece vesiledir.**
+## Destek ve Katılım
+Bu sistemle ilgili katkılar ancak dua ve samimi niyet ile mümkündür. Geliştirici dışı teknik katkılar kabul edilmez.

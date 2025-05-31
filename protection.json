@@ -1,15 +1,1 @@
-{
-  "access_level": "dua_ile_acilir",
-  "checks": {
-    "amin_count": 5,
-    "salavat_required": true,
-    "esma_lock": ["Ya Nur", "Ya Hakim", "Ya Latif"],
-    "sabotage_protection": true
-  },
-  "spiritual_nodes": [
-    {"id": "33", "action": "yardim_et_ve_fotograf_at"},
-    {"id": "11", "action": "tüm_ümmete_dua"},
-    {"id": "7", "action": "el_fatiha_oku"},
-    {"id": "3", "action": "kalpten_amin_de"}
-  ]
-}
+{"protection": "Sadece ihlas ve amin ile çalışan sistem"}
